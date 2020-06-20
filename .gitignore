@@ -3,10 +3,4 @@
 
 /apps/*/*/var/
 
-/apps/*/*/build/
-!/apps/*/*/build/supervisor/.gitkeep
-
 /vendor/
-.phpunit.result.cache
-
-/build
